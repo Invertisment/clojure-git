@@ -1,1 +1,1 @@
-https://hub.docker.com/invertisment/clojure-git:alpine
+https://hub.docker.com/r/invertisment/clojure-git/
